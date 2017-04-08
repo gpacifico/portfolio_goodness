@@ -1082,6 +1082,12 @@ ul.portfolio li.active {
 	border-width: 2px;
 }
 
+#email_load {
+    /*text-align: center;*/
+    padding: 0;
+    margin: 0;
+    font-size: 3vw;
+}
 
 
 /* Social Icons */
