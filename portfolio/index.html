@@ -807,20 +807,20 @@
 						 </div>
                         <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>-->
                         <h4 id="js_email">
-                            <span id="email_load"></span>
+                            <span id="email_js_so_no_bots">email</span>
                         </h4>
                         <script>
                             window.addEventListener('load', function () {
-                                var span = document.getElementById('email_load');
-                                var text = 'gwenever.pacifico';
-                                //Innocuous Comment
+                                setTimeout(function () {
+                                var span = document.getElementById('email_js_so_no_bots');
+                                var text = 'gwenever';
+                                text += '.pacifico';
                                 text += '@';
-                                //Another one
-                                text += 'gmail.com';
-
+                                text += 'gmail';
+                                text += '.com';
                                 span.innerHTML = text;
+                            }, 2000)
                             });
-
                         </script>
                     </div>
                 </div>
