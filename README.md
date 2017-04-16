@@ -6,3 +6,5 @@ One of the projects will be from a group effort to portray my ability to work ef
 
 The other projects will be my individual work to showcase what I can do on my own.
 I will also include images and gifs of my projects to make it easier for anyone who wants to look at my portfolio.
+
+Each project will include a live link and a GitHub link.
