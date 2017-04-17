@@ -8,3 +8,5 @@ The other projects will be my individual work to showcase what I can do on my ow
 I will also include images and gifs of my projects to make it easier for anyone who wants to look at my portfolio.
 
 Each project will include a live link and a GitHub link.
+
+One of the projects will be written in OOP and one will feature a custom-built backend.
