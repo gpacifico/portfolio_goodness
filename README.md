@@ -9,4 +9,4 @@ I will also include images and gifs of my projects to make it easier for anyone 
 
 Each project will include a live link and a GitHub link.
 
-One of the projects will be written in OOP and one will feature a custom-built backend.
+One of the projects will be written in OOP and one will feature a custom-built backend. The backend will consist of Node.js and MongoDB.
