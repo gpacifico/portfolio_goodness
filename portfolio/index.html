@@ -2,8 +2,9 @@
 <html lang="en">
 
   <head>
-    
-    <!-- Meta Tag -->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+      <!-- Meta Tag -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -629,7 +630,7 @@
                           <div class="divider dark">
 						   <i class="icon-drop"></i>
 						 </div>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
+                        <p>Here are the skills I know. The list will grow because I love learning!</p>
                     </div>
                 </div>
             </div>
@@ -816,19 +817,28 @@
 						   <i class="icon-envelope-open"></i>
 						 </div>
                         <!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>-->
-                        <h4 id="js_email">
-                            <span id="email_js_so_no_bots">email</span>
+                        <!--<h4 id="js_email">-->
+                            <!--<span id="email_js_so_no_bots">email</span>-->
+                        <!--</h4>-->
+                        <!--<script>-->
+                            <!--window.addEventListener('load', function () {-->
+                                <!--setTimeout(function () {-->
+                                <!--var span = document.getElementById('email_js_so_no_bots');-->
+                                <!--var text = 'gwenever';-->
+                                <!--text += '.pacifico';-->
+                                <!--text += '@';-->
+                                <!--text += 'gmail';-->
+                                <!--text += '.com';-->
+                                <!--span.innerHTML = text;-->
+                            <!--}, 2000)-->
+                            <!--});-->
+                            <h4 id="js_email">
+                            <span class="email_js_so_no_bots">email</span>
                         </h4>
                         <script>
                             window.addEventListener('load', function () {
                                 setTimeout(function () {
-                                var span = document.getElementById('email_js_so_no_bots');
-                                var text = 'gwenever';
-                                text += '.pacifico';
-                                text += '@';
-                                text += 'gmail';
-                                text += '.com';
-                                span.innerHTML = text;
+                                    $('#js_email').html("<a class='email_js_so_no_bots' href='mailto:gwenever.pacifico@gmail.com'>gwenever.pacifico@gmail.com</a>")
                             }, 2000)
                             });
                         </script>
