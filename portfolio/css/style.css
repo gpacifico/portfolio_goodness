@@ -813,6 +813,10 @@ ul.portfolio li.active {
     cursor: inherit;
 }
 
+#portfolio h4 {
+    margin: 1vw;
+}
+
 
 
 /* Testimonial */
