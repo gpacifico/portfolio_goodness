@@ -197,23 +197,9 @@
    })(jQuery);
 
 
-//CUSTOM MADE JS FOR EMAIL MOVED IT FROM INDEX.HTML TO SCRIPT.JS
-{/*<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>*/}
-{/*<h4 id="js_email">*/}
-    {/*<span id="email_js_so_no_bots">email</span>*/}
-    {/*</h4>*/}
-    {/*<script>*/}
-    {/*window.addEventListener('load', function () {*/}
-        {/*setTimeout(function () {*/}
-            {/*var span = document.getElementById('email_js_so_no_bots');*/}
-            {/*var text = 'gwenever';*/}
-            {/*text += '.pacifico';*/}
-            {/*text += '@';*/}
-            {/*text += 'gmail';*/}
-            {/*text += '.com';*/}
-            {/*span.innerHTML = text;*/}
-        {/*}, 2000)*/}
-    {/*});*/}
+
+
+//CUSTOM MADE JS FOR EMAIL
 
 window.addEventListener('load', function () {
     setTimeout(function () {
