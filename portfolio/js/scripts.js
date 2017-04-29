@@ -195,3 +195,14 @@
             });
 
    })(jQuery);
+
+
+
+
+//CUSTOM MADE JS FOR EMAIL
+
+window.addEventListener('load', function () {
+    setTimeout(function () {
+        $('#js_email').html("<a class='email_js_so_no_bots' href='mailto:gwenever.pacifico@gmail.com'>gwenever.pacifico@gmail.com</a>")
+    }, 2000)
+});
