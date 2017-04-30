@@ -446,6 +446,15 @@ tr > td:nth-child(2) {
     color: #fff;
 }
 
+.i_am_a_link:hover {
+    color: #000000;
+}
+
+.i_am_a_link_too:hover {
+    text-shadow: 0 0 9px #FF0000, 0 0 40px #0000FF;
+}
+
+
 
 
 /* Qualification and Experience */

@@ -129,14 +129,14 @@
 
         $('.portfolio-popup').magnificPopup({
             type: 'image',
-			
+
             gallery: { enabled: true },
 			zoom: { enabled: true,
 			        duration: 500
-					
+
           },
-		  
-		  
+
+
          image:{
                markup: '<div class="mfp-figure portfolio-pop-up">'+
                '<div class="mfp-close"></div>'+
@@ -151,10 +151,10 @@
                 return item.el.attr('title');
               }
             }
-		  
-		  
+
+
           });
-	   
+
 		 
         /* Testimonial Carousel/Slider */
 
