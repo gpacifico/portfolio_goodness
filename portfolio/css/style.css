@@ -447,7 +447,7 @@ tr > td:nth-child(2) {
 }
 
 .i_am_a_link:hover {
-    color: black;
+    color: #000000;
 }
 
 .i_am_a_link_too:hover {
