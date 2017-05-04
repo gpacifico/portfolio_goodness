@@ -1,12 +1,14 @@
-# portfolio_goodness
+# Portfolio
+
 This portfolio will showcase the skills I learned during a high intensity web development bootcamp.
+It includes four recent projects and links to my LinkedIn and GitHub.
 
-It will include at least three polished projects and links to my LinkedIn and GitHub.
-One of the projects will be from a group effort to portray my ability to work effectively in a team environment.
+One of the projects is from a group effort to portray my ability to work effectively in a team environment.
+The other projects are my individual work to showcase what I can do on my own.
 
-The other projects will be my individual work to showcase what I can do on my own.
-I will also include images and gifs of my projects to make it easier for anyone who wants to look at my portfolio.
+Each project has an image, description, live link, and GitHub link.
 
-Each project will include a live link and a GitHub link.
+One of the projects is written in OOP and another features a custom-built backend. The backend consists of Node.js, Express.js, MongoDB, 
+and Passport.js.
 
-One of the projects will be written in OOP and one will feature a custom-built backend. The backend will consist of Node.js and MongoDB.
+<a href = "http://gweneverpacifico.com/">Link to Live Site. Come see my work!</a>
