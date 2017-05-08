@@ -454,6 +454,10 @@ tr > td:nth-child(2) {
     text-shadow: 0 0 9px #FF0000, 0 0 40px #0000FF;
 }
 
+.table-responsive>.table>tbody>tr>td, .table-responsive>.table>tbody>tr>th, .table-responsive>.table>tfoot>tr>td, .table-responsive>.table>tfoot>tr>th, .table-responsive>.table>thead>tr>td, .table-responsive>.table>thead>tr>th {
+    white-space: normal;
+}
+
 
 
 
