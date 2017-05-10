@@ -78,9 +78,12 @@ a {
     text-decoration: none;
 }
 
+img {
+    width: 100%;
+}
+
 .me-image img {
     width: 100%;
-    /*padding: 10px 0;*/
     padding: 15% 0 10% 0;
 }
 
@@ -332,7 +335,6 @@ fieldset {
 
 .table {
 	margin-bottom: 0px;
-    /*margin-top: 10vh;*/
 }
 
 .table a {
@@ -991,8 +993,6 @@ ul.portfolio li.active {
     box-shadow: 0px 1px 2px 0px rgba(90, 91, 95, 0.15);
     transition: all 0.3s ease-in-out;
     position: relative;
-    /*width: 300px;*/
-    /*height: 300px;*/
     width: 250px;
     height: 250px;
     text-align: center;

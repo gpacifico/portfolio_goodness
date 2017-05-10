@@ -71,30 +71,12 @@
 		
 		
        /* Mobile Navigation Hide or Collapse on Click */
-		
+
         $(document).on('click', '.navbar-collapse.in', function (e) {
             if ($(e.target).is('a') && $(e.target).attr('class') != 'dropdown-toggle') {
                 $(this).collapse('hide');
             }
-
-                // $(this).collapse('hide');
-
-            // else if ($(e.target).is(!'a') && $(e.target).attr('class') != 'dropdown-toggle') {
-            //     $(this).collapse('hide');
-            // }
-            // else if (!$(e.target).is('a')) {
-            //     $(this).collapse('show');
-            // }
-            // else {
-            //     $(this).collapse('hide');
-            // }
         });
-        // $(document).on('click', function () {
-        //     $(this).collapse('hide');
-        // });
-        // $('.navbar-collapse.in').on('click', 'body', function () {
-        //     $(this).collapse('hide');
-        // });
         $('body').scrollspy({
             target: '.navbar-collapse',
             offset: 195
