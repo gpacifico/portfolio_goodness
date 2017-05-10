@@ -82,6 +82,11 @@ img {
     width: 100%;
 }
 
+.me-image img {
+    width: 100%;
+    padding: 15% 0 10% 0;
+}
+
 a {
     color: #7f00ff;
 }
@@ -458,7 +463,10 @@ tr > td:nth-child(2) {
     white-space: normal;
 }
 
-
+.table-responsive {
+    margin-top: 25%;
+    margin-bottom: 25%;
+}
 
 
 /* Qualification and Experience */
@@ -985,8 +993,8 @@ ul.portfolio li.active {
     box-shadow: 0px 1px 2px 0px rgba(90, 91, 95, 0.15);
     transition: all 0.3s ease-in-out;
     position: relative;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     text-align: center;
     margin: 0 auto;
     margin-bottom: 30px;
