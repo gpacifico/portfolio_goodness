@@ -11,4 +11,6 @@ Each project has an image, description, live link, and GitHub link.
 One of the projects is written in OOP and another features a custom-built backend. The backend consists of Node.js, Express.js, MongoDB, 
 and Passport.js.
 
+There will also be sections in my portfolio that showcase my personality so you can see the person behind the projects.
+
 <a href = "http://gweneverpacifico.com/">Link to Live Site. Come see my work!</a>
