@@ -1218,11 +1218,15 @@ ul.portfolio li.active {
 }
 
 .github {
-   background-color: #333333;
+   background-color: #767676;
 }
 
 .skype {
    background-color: #00aff0;
+}
+
+.wordpress {
+    background-color: #464646;
 }
 
 
