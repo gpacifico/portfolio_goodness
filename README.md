@@ -14,3 +14,9 @@ and Passport.js.
 There will also be sections in my portfolio that showcase my personality so you can see the person behind the projects.
 
 <a href = "http://gweneverpacifico.com/">Link to Live Site. Come see my work!</a>
+
+## Live Links to Projects for Easy Access
+<a href = "http://wynk.world/">Wynk Dating</a> <br>
+<a href = "https://gpacifico.github.io/memory_match_goodness/">Steven Matchiverse</a> <br>
+<a href = "https://gpacifico.github.io/calculator_goodness/">Math Rainbow!</a> <br>
+<a href = "https://gpacifico.github.io/guessing_game_goodness/">Ghostbusters Ghost Guesser</a> <br>
