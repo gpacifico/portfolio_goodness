@@ -731,7 +731,9 @@ tr > td:nth-child(2) {
 
 /* Portfolio */
 
-.portfolio {}
+.portfolio {
+    background-color: rgba(224,224,224,0.4);
+}
 
 .portfolio-inner .mix {
     display: none;
