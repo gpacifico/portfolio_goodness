@@ -1,9 +1,9 @@
 # Portfolio
 
 This portfolio will showcase the skills I learned during a high intensity web development bootcamp.
-It includes four recent projects and links to my LinkedIn and GitHub.
+It includes eight recent projects and links to my LinkedIn and GitHub.
 
-One of the projects is from a group effort to portray my ability to work effectively in a team environment.
+Four of the projects are from group efforts to portray my ability to work effectively in a team environment.
 The other projects are my individual work to showcase what I can do on my own.
 
 Each project has an image, description, live link, and GitHub link.
