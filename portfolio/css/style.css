@@ -1859,7 +1859,6 @@ ul.portfolio li.active {
 /* Tooltip Styles */
 
 .tooltip-inner {
-	font-style: italic;
 	padding: 10px 12px;
 	min-width: 150px;
 	width: 100%;
@@ -1909,7 +1908,7 @@ ul.portfolio li.active {
 
 /* Custom Settings */
 .col-md-6.col-sm-6.col-xs-12.mix>h4 {
-    height: 120px;
+    height: 150px;
     overflow: hidden;
     text-overflow: ellipsis;
 }
@@ -1994,7 +1993,7 @@ ul.portfolio li.active {
 }
 
 .email_js_so_no_bots {
-    font-size: 22px;
+    font-size: 1.5em;
 }
 
 /* FontAwesome Extra Icons */
@@ -2007,3 +2006,32 @@ ul.portfolio li.active {
     
 .fa-laptop-code:before {
     content: "\f5fc"; }
+
+.mt-0 {
+    margin-top: 0;
+}
+
+.mt-1 {
+    margin-top: 0.25em;
+}
+
+.mt-2 {
+    margin-top: 0.5em;
+}
+
+.mt-3 {
+    margin-top: 1em;
+}
+
+.mt-4 {
+    margin-top: 1.5em;
+}
+
+.mt-5 {
+    margin-top: 3em;
+}
+
+.section-title.contact-me-section-title h2 {
+    font-size: 2.5em;
+}
+
