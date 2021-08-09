@@ -1979,6 +1979,22 @@ ul.portfolio li.active {
     font-size: 21px;
 }
 
+.portfolio-inner a h4 {
+    color: white;
+    background-color: #4B3F72;
+    border-radius: 5em;
+    padding: 0 15px;
+    display: inline-block;
+    margin: auto;
+    height: 2em;
+    line-height: 2em;
+}
+
+.portfolio-inner a h4:hover {
+    transition: all 0.3s ease-in-out;
+    background-color: #202020;
+}
+
 .statistics.bg-color-7 {
     height: 245px;
 }
