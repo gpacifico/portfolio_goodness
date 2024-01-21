@@ -956,6 +956,14 @@ ul.portfolio li.active {
 
 /* Statistics */
 
+#facts > .container {
+    margin-bottom: 2em;
+}
+
+#facts {
+    background-color: rgba(224,224,224,0.4);
+}
+
 .statistics-section {
     background: url(../images/codingcoffee3.jpg);
     background-size: cover;
